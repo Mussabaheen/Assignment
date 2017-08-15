@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+
+<!-- Colors from Material Design https://material.google.com/style/color.html -->
+<color name="red">#F44336</color>
+    <color name="papa">#FF2</color>
+<color name="grey">#9E9E9E</color>
+
+
+</resources>
